@@ -1,0 +1,5 @@
+E:\Devang IMP\IMP Documents\Csharp\Session1\Stackexample\Stackexample\obj\Debug\Stackexample.exe
+E:\Devang IMP\IMP Documents\Csharp\Session1\Stackexample\Stackexample\obj\Debug\Stackexample.pdb
+E:\Devang IMP\IMP Documents\Csharp\Session1\Stackexample\Stackexample\bin\Debug\Stackexample.exe
+E:\Devang IMP\IMP Documents\Csharp\Session1\Stackexample\Stackexample\bin\Debug\Stackexample.pdb
+E:\Devang IMP\IMP Documents\Csharp\Session1\Stackexample\Stackexample\obj\Debug\ResolveAssemblyReference.cache

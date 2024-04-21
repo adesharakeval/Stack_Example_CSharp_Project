@@ -1,0 +1,5 @@
+C:\Users\RUTU\Desktop\c#\Csharp\Session1\Stackexample\Stackexample\obj\Debug\Stackexample.exe
+C:\Users\RUTU\Desktop\c#\Csharp\Session1\Stackexample\Stackexample\obj\Debug\Stackexample.pdb
+C:\Users\RUTU\Desktop\c#\Csharp\Session1\Stackexample\Stackexample\bin\Debug\Stackexample.exe
+C:\Users\RUTU\Desktop\c#\Csharp\Session1\Stackexample\Stackexample\bin\Debug\Stackexample.pdb
+C:\Users\RUTU\Desktop\c#\Csharp\Session1\Stackexample\Stackexample\obj\Debug\Stackexample.csprojResolveAssemblyReference.cache

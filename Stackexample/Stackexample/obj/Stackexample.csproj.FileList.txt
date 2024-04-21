@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Stackexample.exe
+bin\Debug\Stackexample.pdb
+obj\Debug\Stackexample.exe
+obj\Debug\Stackexample.pdb
